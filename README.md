@@ -1,9 +1,9 @@
 # FinalProject1000IT
 
-[About Me](https://github.com/PeterKim-GIT/FINALPROJECT1000/blob/main/About%20me) 
+[About Me](https://github.com/PeterKim-GIT/FinalProject1000IT/blob/main/AboutMe.md) 
 
-[Images](https://github.com/PeterKim-GIT/FINALPROJECT1000/blob/main/Images) 
+[Images](https://github.com/PeterKim-GIT/FinalProject1000IT/blob/main/Images.md) 
 
-[Games I like](https://github.com/PeterKim-GIT/FINALPROJECT1000/blob/main/List%20Of%20Games%20I%20Enjoy)
+[Games I like](https://github.com/PeterKim-GIT/FinalProject1000IT/blob/main/Games%20I%20Enjoy.md)
 
-[TurtleGraphics1040](https://github.com/PeterKim-GIT/FINALPROJECT1000/blob/main/TurtleGraphics1040)
+[TurtleGraphics1040](https://github.com/PeterKim-GIT/FinalProject1000IT/blob/main/TurtleGraphics1040.md)
